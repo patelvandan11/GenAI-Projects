@@ -1,0 +1,7 @@
+streamlit
+fastmcp
+langchain
+langchain-community
+langchain-nvidia-ai-endpoints
+python-dotenv
+arxiv 
