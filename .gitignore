@@ -1,3 +1,7 @@
 .env
 __pycache__/
 .python-version
+chroma_langchain_db/
+*.db
+*.sqlite
+*.sqlite3
